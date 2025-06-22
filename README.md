@@ -1,7 +1,7 @@
-# ACM-React-HackerRank
+# ACM SIGKDD React Contest
 
 ## Overview
-This repository features solutions to the **ACM SIGKDD React Contest**, designed to evaluate React skills by testing the building and creation of efficient, responsive, dynamic, engaging and interactive UI components and applications. Participants compete by solving challenges through coding and submitting solutions within the given timeframe.
+This repository contains solutions to the **"ACM SIGKDD React Contest"** hosted on the **HackerRank** platform, by [**ACM SIGKDD Student Chapter, SRMIST**](https://sigkdd.vercel.app/). The contest aims to assess participants' React skills through the development of efficient, responsive, dynamic, and engaging UI components and applications. Participants compete by solving challenges, creating innovative solutions, and submitting their code within the designated timeframe.
 
 ## Contest Duration
 - **Start Date & Time:** June 22, 2025, 09:00 AM IST
