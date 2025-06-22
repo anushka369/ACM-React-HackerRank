@@ -43,7 +43,7 @@ test("clears input fields after successful submission", () => {
   fireEvent.change(nameInput, { target: { value: "John Doe" } });
   fireEvent.change(emailInput, { target: { value: "john@example.com" } });
   fireEvent.change(messageInput, { target: { value: "Hello there!" } });
-
+  
   fireEvent.click(submitButton);
 
   expect(nameInput.value).toBe("");
